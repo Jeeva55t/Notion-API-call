@@ -1,0 +1,9 @@
+{
+  "name": "email-extension-2",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "dotenv": "^16.0.3"
+  }
+}
